@@ -1,5 +1,5 @@
 
-//yooooo 
+//COMMENCER EXO 3
 
 
 // NE PAS MODIFIER : Déclaration de variables utiles : varaibles qui peuvent aider à la résolution des exercices, mais qui ne sont pas forcément indispensables.
