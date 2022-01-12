@@ -1,3 +1,7 @@
+
+//yooooo 
+
+
 // NE PAS MODIFIER : Déclaration de variables utiles : varaibles qui peuvent aider à la résolution des exercices, mais qui ne sont pas forcément indispensables.
 alphabet=["A","B","C","D","E","F","G","H","I","J","K","L","M","N","O","P","Q","R","S","T","U","V","W","X","Y","Z"];
 morse=[".-","-...","-.-.","-..",".","..-.","--.","....","..",".---","-.-",".-..","--","-.","---",".--.","--.-",".-.","...","-","..-","...-",".--","-..-","-.--","--.."];
