@@ -1,5 +1,5 @@
 
-//COMMENCER EXO 3
+//COMMENCER EXO 3 et 4
 
 
 // NE PAS MODIFIER : Déclaration de variables utiles : varaibles qui peuvent aider à la résolution des exercices, mais qui ne sont pas forcément indispensables.
